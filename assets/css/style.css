@@ -223,7 +223,7 @@ a:hover {
 .socials .ico-circle:hover {
   background-color: #0078ff;
   color: #fff;
-  box-shadow: 0 0 0 3px #cde1f8;
+  box-shadow: 0 0 0 3px  #fad7a0 ;
   transition: all 500ms ease;
 }
 
@@ -252,7 +252,7 @@ a:hover {
   line-height: 1.55;
   margin: 0 auto;
   text-align: center;
-  box-shadow: 0 0 0 10px #0078ff;
+  box-shadow: 0 0 0 10px  #d68910 ;
   display: block;
 }
 
@@ -523,7 +523,7 @@ a:hover {
 }
 
 .navbar-b.navbar-reduce .nav-link {
-  color: #0078ff;
+  color: #1b2631;
 }
 
 .navbar-b.navbar-reduce .nav-link:before {
@@ -538,7 +538,7 @@ a:hover {
 .navbar-b.navbar-reduce .active > .nav-link,
 .navbar-b.navbar-reduce .nav-link.show,
 .navbar-b.navbar-reduce .nav-link.active {
-  color: #0078ff;
+  color:  #d68910 ;
 }
 
 .navbar-b.navbar-reduce .navbar-brand {
@@ -818,7 +818,7 @@ a:hover {
   height: 60px;
   width: 60px;
   line-height: 1.8;
-  box-shadow: 0 0 0 10px #cde1f8;
+  box-shadow: 0 0 0 10px #fad7a0 ;
 }
 
 .counter-num .counter {
@@ -1360,7 +1360,7 @@ footer {
   text-align: center;
   color: #fff;
   padding: 25px 0;
-  background: #0062d3;
+  background: #1b2631;
 }
 
 footer .copyright {
