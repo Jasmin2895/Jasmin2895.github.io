@@ -157,7 +157,7 @@ a:hover {
 .line-mf {
   width: 40px;
   height: 5px;
-  background-color: #0078ff;
+  background-color: #d68910;
   margin: 0 auto;
 }
 
@@ -175,7 +175,7 @@ a:hover {
   content: '';
   position: absolute;
   height: 3px;
-  background-color: #0078ff;
+  background-color: #d68910;
   width: 100px;
   bottom: -12px;
 }
@@ -268,13 +268,14 @@ a:hover {
 
 .owl-theme .owl-dots .owl-dot span {
   width: 18px;
-  height: 7px;
+  height: 18px;
   margin: 5px 5px;
   background: #cde1f8;
   border: 0px solid #cde1f8;
   display: block;
   transition: all 0.6s ease-in-out;
   cursor: pointer;
+  border-radius: 50%;
 }
 
 .owl-theme .owl-dots .owl-dot:hover span {
@@ -283,7 +284,7 @@ a:hover {
 
 .owl-theme .owl-dots .owl-dot.active span {
   background-color: #1B1B1B;
-  width: 25px;
+  width: 18px;
 }
 
 /*--/ Scrolltop s /--*/
@@ -315,7 +316,7 @@ a:hover {
 .back-to-top {
   position: fixed;
   display: none;
-  background: #0078ff;
+  background: #d68910;
   color: #fff;
   width: 44px;
   height: 44px;
@@ -527,11 +528,11 @@ a:hover {
 }
 
 .navbar-b.navbar-reduce .nav-link:before {
-  background-color: #0078ff;
+  background-color: #d68910;
 }
 
 .navbar-b.navbar-reduce .nav-link:hover {
-  color: #0078ff;
+  color: #d68910;
 }
 
 .navbar-b.navbar-reduce .show > .nav-link,
@@ -1152,6 +1153,10 @@ a:hover {
   position: relative;
 }
 
+.card-img {
+  opacity: .5;
+}
+
 .card-blog .card-category-box {
   position: absolute;
   text-align: center;
@@ -1167,7 +1172,7 @@ a:hover {
   color: #fff;
   padding: 0 15px 5px;
   overflow: hidden;
-  background-color: #0078ff;
+  background-color: #d68910;
   border-radius: 4px;
 }
 
