@@ -270,7 +270,7 @@ a:hover {
   width: 18px;
   height: 18px;
   margin: 5px 5px;
-  background: #cde1f8;
+  background: #1B1B1B;
   border: 0px solid #cde1f8;
   display: block;
   transition: all 0.6s ease-in-out;
@@ -279,11 +279,11 @@ a:hover {
 }
 
 .owl-theme .owl-dots .owl-dot:hover span {
-  background-color: #cde1f8;
+  background-color: #fad7a0;
 }
 
 .owl-theme .owl-dots .owl-dot.active span {
-  background-color: #1B1B1B;
+  background-color: #fad7a0;
   width: 18px;
 }
 
