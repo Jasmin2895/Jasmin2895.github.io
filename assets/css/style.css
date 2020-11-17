@@ -188,6 +188,7 @@ a:hover {
 .box-shadow-full {
   padding: 3rem 1.25rem;
   position: relative;
+  border-radius: 8px;
   background-color: #fff;
   margin-bottom: 3rem;
   z-index: 2;
